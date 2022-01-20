@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163865730459",
+    "project_id": "ccube-1575c",
+    "storage_bucket": "ccube-1575c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163865730459:android:2df7e484813b363170153e",
+        "android_client_info": {
+          "package_name": "com.ccube.attendant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163865730459-fqtv6koogl3k2mjdjloa1m0sikiifm04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTjLqeWDN73cTYFN4N-qR3E5aehXVrG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163865730459-fqtv6koogl3k2mjdjloa1m0sikiifm04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

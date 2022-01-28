@@ -18,6 +18,7 @@ class _MyTestAppState extends State<ConnectionToPartner> {
   final Strategy strategy = Strategy.P2P_POINT_TO_POINT;
   bool isSearching, isHotspot;
 
+
   String tempFileUri; //reference to the file currently being transferred
 
   Future<void> permissionChecks() async {
